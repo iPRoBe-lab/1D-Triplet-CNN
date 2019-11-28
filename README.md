@@ -42,7 +42,7 @@ The network attains optimal performance when trained using a triplet learning fr
 
 *Recommended audio specifications*
 
-Usually, 2 secs of audio sampled at 8000KHz is enough to produce reliable speaker recognition results.
+Usually, 2 seconds of speech audio sampled at 8000KHz is enough to produce reliable speaker recognition results.
 Longer audio samples will make the recognition task significantly slower with no significant benefits to performance.
 Audio samples smaller than 1secs with have considerable performance loss.
 
