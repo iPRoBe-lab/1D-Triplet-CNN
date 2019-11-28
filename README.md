@@ -12,7 +12,7 @@ PyTorch implementation of the 1D-Triplet-CNN neural network model described in *
 
 ![1D-Triplet-CNN Model](/images/arch.png)
 
-![1D-Triplet-CNN Details](/images/Feature_fusion.png)s
+![1D-Triplet-CNN Details](/images/Feature_fusion.png)
 
 ## Implementation details and requirements
 
