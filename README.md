@@ -50,7 +50,7 @@ Audio samples smaller than 1secs with have considerable performance loss.
 
 1. Satisfy the requirements listed in the [./requirements.txt](./requirements.txt) file. 
 2. Run [src/extractFeatures.m](src/extractFeatures.m) in MATLAB R2019a(or newer) to extract MFCC-LPC features from audio files placed in [sample_audio](sample_audio) subdirectory and save corresponding features as individual .mat files in [sample_feature](sample_feature) subdirectory.
-3. Run [src/extractFeatures.m](src/test.py) in Python 3.6 to evaluate some sample audio pairs for generating speaker verification scores.
+3. Run [src/test.py](src/test.py) in Python 3.6 to evaluate some sample audio pairs for generating speaker verification scores.
 
 **Examples**
 
