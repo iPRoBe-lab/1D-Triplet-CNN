@@ -6,7 +6,7 @@ PyTorch implementation of the 1D-Triplet-CNN neural network model described in *
 
 ## Research Article
 
-[Anurag Chowdhury](https://github.com/ChowdhuryAnurag), and [Arun Ross](http://www.cse.msu.edu/~rossarun/) (2019), *Fusing MFCC and LPC Features using 1D Triplet CNN for Speaker Recognition in Severely Degraded Audio Signals*, IEEE Transactions on Information Forensics and Security (2019).   
+[Anurag Chowdhury](https://github.com/ChowdhuryAnurag), and [Arun Ross](http://www.cse.msu.edu/~rossarun/), *Fusing MFCC and LPC Features using 1D Triplet CNN for Speaker Recognition in Severely Degraded Audio Signals*, IEEE Transactions on Information Forensics and Security (2019).   
 
 - IEEE Xplore: [https://ieeexplore.ieee.org/document/8839817](https://ieeexplore.ieee.org/document/8839817)
 
