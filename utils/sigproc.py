@@ -1,7 +1,9 @@
 # https://github.com/jameslyons/python_speech_features
-
 # This file includes routines for basic signal processing including framing and computing power spectra.
 # Author: James Lyons 2012
+#
+# This file was updated with additional speech processing routines for feature extraction, such as MFCC and LPC
+# Author: Anurag Chowdhury 2020
 import sys, os
 import decimal
 import numpy as np
